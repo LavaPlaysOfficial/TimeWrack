@@ -1,8 +1,7 @@
 
-# ---TimeWrack---
+# TimeWrack
 
 -A game about a **Timeless** world-
-
 -And a journey of a **Brave** person-
 
 ### A quick word before starting
