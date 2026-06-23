@@ -25,3 +25,31 @@ You wake up in an unknown world after dying, where someone with a Claymore and a
 1. Try to **find your way back** to your world.
 1. Be the **Hero** of this world
 1. Live in the **shadows**.
+
+>Most of the story isnt yet thought of, i havent had the time to even start on the details, i started with the art, first; Im not done with that either. :(
+
+### How i came up with this
+
+>I dont know, dont ask me.
+
+### Technologies used
+
+* Unity 6000.3.17f1 LTS
+* C#
+* Blender 5.1.2
+* Aseprite
+* GIMP 3.2.4
+* InkScape
+* Audacity
+* Davinci Resolve
+* FL Studio
+* Git
+* Material Maker
+
+### Instructions
+
+>Bruv, the game isnt done yet...
+
+### Closing word
+
+>Thanks for checking my github page out, if you gave any suggestions my discord is god_of_lava_, my dms are open, shoot me a message!
