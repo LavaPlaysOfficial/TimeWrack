@@ -53,3 +53,5 @@ You wake up in an unknown world after dying, where someone with a Claymore and a
 ### Closing word
 
 >Thanks for checking my github page out, if you gave any suggestions my discord is god_of_lava_, my dms are open, shoot me a message!
+
+>This will be updated in the future - 2026.06.23.
