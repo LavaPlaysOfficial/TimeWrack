@@ -45,6 +45,8 @@ You wake up in an unknown world after dying, where someone with a Claymore and a
 * FL Studio
 * Git
 * Material Maker
+* Visual Studio 2026
+* Visual Studio Code
 
 ### Instructions
 
